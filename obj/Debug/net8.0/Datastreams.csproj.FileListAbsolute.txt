@@ -1,0 +1,14 @@
+C:\Users\IBBHome\source\repos\Datastreams\bin\Debug\net8.0\Datastreams.exe
+C:\Users\IBBHome\source\repos\Datastreams\bin\Debug\net8.0\Datastreams.deps.json
+C:\Users\IBBHome\source\repos\Datastreams\bin\Debug\net8.0\Datastreams.runtimeconfig.json
+C:\Users\IBBHome\source\repos\Datastreams\bin\Debug\net8.0\Datastreams.dll
+C:\Users\IBBHome\source\repos\Datastreams\bin\Debug\net8.0\Datastreams.pdb
+C:\Users\IBBHome\source\repos\Datastreams\obj\Debug\net8.0\Datastreams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IBBHome\source\repos\Datastreams\obj\Debug\net8.0\Datastreams.AssemblyInfoInputs.cache
+C:\Users\IBBHome\source\repos\Datastreams\obj\Debug\net8.0\Datastreams.AssemblyInfo.cs
+C:\Users\IBBHome\source\repos\Datastreams\obj\Debug\net8.0\Datastreams.csproj.CoreCompileInputs.cache
+C:\Users\IBBHome\source\repos\Datastreams\obj\Debug\net8.0\Datastreams.dll
+C:\Users\IBBHome\source\repos\Datastreams\obj\Debug\net8.0\refint\Datastreams.dll
+C:\Users\IBBHome\source\repos\Datastreams\obj\Debug\net8.0\Datastreams.pdb
+C:\Users\IBBHome\source\repos\Datastreams\obj\Debug\net8.0\Datastreams.genruntimeconfig.cache
+C:\Users\IBBHome\source\repos\Datastreams\obj\Debug\net8.0\ref\Datastreams.dll
